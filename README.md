@@ -63,5 +63,6 @@ In the competitive e-commerce landscape, acquiring a new customer is **5x more e
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/melek-ikiz-520065373/)
 
----
+**The full source code and model architecture are available upon request for professional inquiries. Please contact me via LinkedIn for access**
+
 *Developed as a strategic solution for modern e-commerce challenges.*
